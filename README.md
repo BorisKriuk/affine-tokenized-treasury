@@ -58,3 +58,13 @@ python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 python pipeline.py
 ```
+
+---
+
+## ✍️ Authors
+
+<div align="center">
+
+**Artem Alhamov** &nbsp;·&nbsp; **Boris Kriuk**
+
+</div>
