@@ -34,7 +34,7 @@ The pipeline does six things, end-to-end, from raw public APIs:
 - Of 5 tokenized products, **only USDY** clears the daily price-discovery test
   (ACF₁ = +0.977). USYC's daily spread is white noise; OUSG / TBILL are
   amortized-cost vehicles and report descriptively only.
-- USDY wedge: \\(\\kappa = 2.37\\), half-life ≈ 74 trading days, long-run mean
+- USDY wedge: kappa = 2.37, half-life ≈ 74 trading days, long-run mean
   ≈ +15 bp, idiosyncratic volatility ≈ 8 bp.
 - **CUSUM detects a discrete regime change on 2026-03-17** (permutation
   p-value 0.002, B = 2000): wedge volatility collapses 6.5× post-break.
