@@ -4,8 +4,7 @@ A two-factor affine term-structure model for tokenized U.S. Treasury products:
 identification, haircuts, and a March-2026 structural break — using only real,
 public data (FRED + DefiLlama).
 
-> **Status (v7.1, May 2026):** 30 / 32 self-tests pass on live data.
-> Methodological paper draft in `paper/`.
+> **Status (v7.1, May 2026):** 30 tests pass on live data.
 
 ---
 
