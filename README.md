@@ -61,10 +61,10 @@ python pipeline.py
 
 ---
 
-## ✍️ Authors
+## Authors
 
 <div align="center">
 
-**Artem Alhamov** &nbsp;·&nbsp; **Boris Kriuk**
+**Artem Alhamov (ESSEC Business School)** &nbsp;·&nbsp; **Boris Kriuk (The Hong Kong University of Science and Technology)**
 
 </div>
